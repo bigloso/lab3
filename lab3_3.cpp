@@ -2,8 +2,8 @@
 using namespace std ;
 
 int main(){
-    float exp , num=2 ;
-    while(num<=69){
+    float exp , num=6 ;
+    while(num<=19){
         exp += 1/num ; 
         num++ ;      
 

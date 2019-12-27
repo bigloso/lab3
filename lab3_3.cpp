@@ -5,8 +5,8 @@ int main(){
     float exp , num=2 ;
     while(num<=69){
         exp += 1/num ; 
-        num++ ;
-        
+        num++ ;      
+
     }
 
     cout << exp ;

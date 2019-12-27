@@ -6,6 +6,7 @@ int main(){
     while(num<=19){
         exp += 1/num ; 
         num++ ;      
+        
 
     }
 
